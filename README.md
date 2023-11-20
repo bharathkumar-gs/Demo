@@ -1,4 +1,4 @@
 # DigitalClock
 This is my first Git Repository.
 <br>
-Author - Bharathkumar
+Author - Bharathkumar-gs
